@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NotAditya87
-- 👀 I’m interested in Python, CSS, Rust 
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in Python, CSS, Rust, C, C++, Javascript
+- 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: HE/HIS
